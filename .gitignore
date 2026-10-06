@@ -1,0 +1,21 @@
+# Local data and environment
+/data/
+.env
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# JavaScript
+node_modules/
+frontend/dist/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
