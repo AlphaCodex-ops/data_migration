@@ -43,6 +43,7 @@ Uploads are limited to 50 MiB, must be UTF-8 CSV, and must have unique, non-empt
 
 ## Project documentation
 
+- [End-to-end project guide](docs/project-guide.md)
 - [Architecture](docs/architecture.md)
 - [Data contract](docs/data-contract.md)
 - [API](docs/api.md)
