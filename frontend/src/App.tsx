@@ -77,7 +77,6 @@ export default function App() {
       <section className="workspace" id="home">
         <aside className="rail" aria-label="Workspace navigation">
           <div className="rail-icon active" title="Ingest CSV"><Upload size={18} /></div>
-          <div className="rail-icon" title="Local datasets"><FolderOpen size={18} /></div>
           <div className="rail-bottom"><span className="avatar">L</span></div>
         </aside>
 
